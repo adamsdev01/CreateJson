@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRzOJ6qre6gcNIlMvwmxBogj4BscIQjNmwYZgLs9BImrDpFMfsXI4hYlc0ZDX++u/h0cVGgPfsyjbL9gMmLBAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadam\\source\\repos\\CreateJson\\CreateJson\\CreateJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
